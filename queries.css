@@ -1,0 +1,52 @@
+@media (max-width: 89rem) {
+  header {
+    padding: 20px 3%;
+    transition: 0.4s;
+  }
+}
+
+@media (max-width: 75rem) {
+  .nav-menu {
+    position: absolute;
+    top: 100%;
+    right: -100%;
+    width: 30rem;
+    height: 130vh;
+    background: #edfff1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 120px 30px;
+    transition: all 0.4s;
+  }
+
+  #menu-icon {
+    display: block;
+  }
+
+  .nav-menu a {
+    display: block;
+    margin: 19px 0;
+  }
+
+  .nav-menu.open {
+    right: 0;
+  }
+}
+
+@media (max-width: 63rem) {
+  .main-text h1 {
+    font-size: 5rem;
+    transition: 0.4s;
+  }
+
+  .main-text p {
+    font-size: 1.8rem;
+    transition: 0.4s;
+  }
+
+  .main-btn {
+    padding: 10px 20px;
+    transform: 0.4s;
+  }
+}
