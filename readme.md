@@ -1,5 +1,7 @@
 Simple E-Commerce page project builded with CSS.
 
+Netlify Link: https://velvety-paletas-d7ea6b.netlify.app
+
 Header Section:
 ![header-section](https://github.com/burakkaragol97/shopping-page-css/assets/90074359/c81f4e92-8c18-400f-ba05-f8a059a4197f)
 
